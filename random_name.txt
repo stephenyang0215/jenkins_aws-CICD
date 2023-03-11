@@ -1,0 +1,10 @@
+Lily,Walker,20
+Leonardo,Wilson,32
+Arthur,Russell,54
+Haris,Harris,65
+Ted,Tucker,23
+Madaline,Payne,52
+Evelyn,Bennett,43
+Abraham,Elliott,13
+Ellia,Nelson,34
+Jenna,Wells,23
